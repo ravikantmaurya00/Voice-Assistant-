@@ -129,7 +129,3 @@ https://www.lfd.uci.edu/\~gohlke/pythonlibs/#pyaudio
 -   Wake-word detection\
 -   GUI version\
 -   Offline STT using Vosk
-
-## 📝 License
-
-MIT License
